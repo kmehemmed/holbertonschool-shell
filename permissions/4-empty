@@ -1,2 +1,2 @@
 #!/bin/bash
-nano hello
+touch hello
